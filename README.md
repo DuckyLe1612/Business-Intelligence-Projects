@@ -22,7 +22,9 @@ For this project, I created a fully interactive HR analytics dashboard in **Tabl
 
 ---
 
-## 2. Sales & Performance Dashboard - Blinkit Analysis | **Power BI** | 2025 https://drive.google.com/drive/folders/1BfEbK0FannqCk_OuzKiebmZ0FPGaQqmU?usp=sharing
+## 2. Sales & Performance Dashboard - Blinkit Analysis | **Power BI** | 2025 
+https://drive.google.com/drive/folders/1BfEbK0FannqCk_OuzKiebmZ0FPGaQqmU?usp=sharing
+
 I performed a comprehensive analysis of Blinkit’s sales data, focusing on performance metrics, customer satisfaction, and inventory distribution. I applied **DAX** formulas and advanced techniques to generate valuable insights for stakeholders.
 
 - Created interactive dashboards with KPIs:
@@ -37,7 +39,8 @@ I performed a comprehensive analysis of Blinkit’s sales data, focusing on perf
 
 ---
 
-## 3. Healthcare Data - Patient Wait List Analysis | Power BI | 2025 https://drive.google.com/drive/folders/1WYzDH4WzeAkK3j4GoBrGbBdKZvjQtoND?usp=drive_link
+## 3. Healthcare Data - Patient Wait List Analysis | Power BI | 2025
+https://drive.google.com/drive/folders/1WYzDH4WzeAkK3j4GoBrGbBdKZvjQtoND?usp=drive_link
 
 I developed a comprehensive dashboard to analyze patient wait lists across inpatient and outpatient categories. The goal was to assist healthcare administrators in optimizing patient flow and reducing waiting times by providing actionable insights based on key performance metrics.
 
@@ -57,7 +60,9 @@ I developed a comprehensive dashboard to analyze patient wait lists across inpat
 Generated insights to identify critical bottlenecks, enabling healthcare administrators to make informed decisions on resource allocation and patient care strategies.
 
 
-## 4. UK Road Accident Data Analysis Dashboard | **Excel** | 2025 https://drive.google.com/drive/folders/1ulheOdY59mDjM3mu9XY7cdPAU8HMTk10?usp=sharing
+## 4. UK Road Accident Data Analysis Dashboard | **Excel** | 2025 
+https://drive.google.com/drive/folders/1ulheOdY59mDjM3mu9XY7cdPAU8HMTk10?usp=sharing
+
 For this project, I built a dynamic dashboard in **Excel** to analyze road accident data sourced from Kaggle. This project involved cleaning the data and creating customizations based on accident severity, vehicle types, and time of day.
 
 - Utilized **Pivot Tables** and **Excel functions** for in-depth analysis of accident trends.
