@@ -1,6 +1,6 @@
 # Projects Portfolio
 
-Welcome to my portfolio! 
+
 These are projects I've completed as part of my learning journey in data analytics and business intelligence. I’ve used tools like **Tableau**, **Power BI**, **Excel**, and **Python** to complete these projects, with a focus on end-to-end solutions that cover everything from data cleaning to creating interactive dashboards and predictive models.
 
 These projects were initially inspired by tutorials, but I’ve gone beyond simply following along. I applied the concepts I learned to adapt and customize the work to fit specific problems. This allowed me to deepen my understanding and gain valuable insights into using these tools to solve real-world problems.
