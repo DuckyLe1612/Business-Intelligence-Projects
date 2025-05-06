@@ -7,7 +7,7 @@ These projects were initially inspired by tutorials, but I’ve gone beyond simp
 
 ---
 
-## 1. HR Analytics Dashboard | **Tableau** | 2025 https://public.tableau.com/app/profile/duckyle/viz/HRDashboard-Ducky/HRSummary
+## 1. HR Analytics Dashboard | **Tableau** | 2025 https://public.tableau.com/app/profile/duckyle/viz/HRDashboard-Ducky/HRSummary https://public.tableau.com/app/profile/duckyle/viz/HRDetailsDashboard-Ducky/HRDetails
 For this project, I created a fully interactive HR analytics dashboard in **Tableau** based on a simulated user story. Using a synthetic HR dataset of 8,950 records, I designed the dashboard to help HR managers make data-driven decisions regarding workforce management.
 
 - Developed interactive views, including:
