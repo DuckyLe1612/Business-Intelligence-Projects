@@ -7,7 +7,10 @@ These projects were initially inspired by tutorials, but I’ve gone beyond simp
 
 ---
 
-## 1. HR Analytics Dashboard | **Tableau** | 2025 https://public.tableau.com/app/profile/duckyle/viz/HRDashboard-Ducky/HRSummary https://public.tableau.com/app/profile/duckyle/viz/HRDetailsDashboard-Ducky/HRDetails
+## 1. HR Analytics Dashboard | **Tableau** | 2025 
+HR Dashboard Overview: https://public.tableau.com/app/profile/duckyle/viz/HRDashboard-Ducky/HRSummary  
+HR Dashboard Details: https://public.tableau.com/app/profile/duckyle/viz/HRDetailsDashboard-Ducky/HRDetails
+
 For this project, I created a fully interactive HR analytics dashboard in **Tableau** based on a simulated user story. Using a synthetic HR dataset of 8,950 records, I designed the dashboard to help HR managers make data-driven decisions regarding workforce management.
 
 - Developed interactive views, including:
@@ -54,7 +57,7 @@ I developed a comprehensive dashboard to analyze patient wait lists across inpat
 Generated insights to identify critical bottlenecks, enabling healthcare administrators to make informed decisions on resource allocation and patient care strategies.
 
 
-## 4. UK Road Accident Data Analysis Dashboard | **Excel** | 2025
+## 4. UK Road Accident Data Analysis Dashboard | **Excel** | 2025 https://drive.google.com/drive/folders/1ulheOdY59mDjM3mu9XY7cdPAU8HMTk10?usp=sharing
 For this project, I built a dynamic dashboard in **Excel** to analyze road accident data sourced from Kaggle. This project involved cleaning the data and creating customizations based on accident severity, vehicle types, and time of day.
 
 - Utilized **Pivot Tables** and **Excel functions** for in-depth analysis of accident trends.
