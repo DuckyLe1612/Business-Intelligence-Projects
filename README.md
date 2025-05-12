@@ -1,4 +1,4 @@
-# Projects Portfolio
+# End-to-End Data Projects
 
 
 These are projects I've completed as part of my learning journey in data analytics and business intelligence. I’ve used tools like **Tableau**, **Power BI**, **Excel**, and **Python** to complete these projects, with a focus on end-to-end solutions that cover everything from data cleaning to creating interactive dashboards and predictive models.
